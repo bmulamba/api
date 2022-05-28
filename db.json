@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Nike Air Huarache Le",
+      "brand": "Nike x Stussy",
+      "barcorde": 838382200212,
+      "description": "Great sneakers for everyday use!",
+      "price": 340,
+      "reviews": "3.5",
+      "countreviews": 34,
+      "onlineBadge": true,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0087/6193/3920/products/DD1381200_DEOA_2_720x.jpg?v=1612816087",
+        "https://cdn.shopify.com/s/files/1/0087/6193/3920/products/DD1381200_DEOA_1_720x.jpg?v=1612816087",
+        "https://cdn.shopify.com/s/files/1/0087/6193/3920/products/DD1381200_DEOA_3_720x.jpg?v=1612816087",
+        "https://cdn.shopify.com/s/files/1/0087/6193/3920/products/DD1381200_DEOA_5_720x.jpg?v=1612816087",
+        "https://cdn.shopify.com/s/files/1/0087/6193/3920/products/DD1381200_DEOA_4_720x.jpg?v=1612816087"
+      ],
+      "colors": ["blue", "black", "red", "white"]
+    },
+    {
+      "id": 2,
+      "name": "Jacket",
+      "brand": "Canada Goose",
+      "barcorde": 8388966662129,
+      "description": "Awesome winter jacket, good for ladies  and come in diffrenet colors",
+      "price": 210,
+      "reviews": "4.5",
+      "countreviews": 29,
+      "onlineBadge": false,
+      "images": [
+        "https://images.canadagoose.com/image/upload/w_480,c_scale,f_auto,q_auto:best/v1576016105/product-image/2409L_61.jpg",
+        "https://images.canadagoose.com/image/upload/w_480,c_scale,f_auto,q_auto:best/v1576016107/product-image/2409L_61_a.jpg",
+        "https://images.canadagoose.com/image/upload/w_480,c_scale,f_auto,q_auto:best/v1576016108/product-image/2409L_61_b.jpg",
+        "https://images.canadagoose.com/image/upload/w_480,c_scale,f_auto,q_auto:best/v1576016109/product-image/2409L_61_c.jpg",
+        "https://images.canadagoose.com/image/upload/w_480,c_scale,f_auto,q_auto:best/v1576016110/product-image/2409L_61_d.jpg",
+        "https://images.canadagoose.com/image/upload/w_1333,c_scale,f_auto,q_auto:best/v1634058169/product-image/2409L_61_o.png",
+        "https://images.canadagoose.com/image/upload/w_1333,c_scale,f_auto,q_auto:best/v1634058159/product-image/2409L_61_p.png"
+      ],
+      "colors": ["blue", "black", "red", "white", "green"]
+    },
+    {
+      "id": 3,
+      "name": "PlayStation 5",
+      "brand": "ps-5",
+      "barcorde": 8383822873522,
+      "description": "A good gaming console. Plays games of PS4! Enjoy if you can buy it mwahahahaha",
+      "price": 840,
+      "reviews": "4.0",
+      "countreviews": 324,
+      "onlineBadge": true,
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/510VSJ9mWDL._SL1262_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/610%2B69ZsKCL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51iPoFwQT3L._SL1230_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61qbqFcvoNL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51HCjA3rqYL._SL1230_.jpg"
+      ],
+      "colors": ["blue", "black", "white"]
+    },
+    {
+      "id": 4,
+      "name": "Xbox Series S 512GB",
+      "brand": "Microsoft",
+      "barcorde": 838382200002,
+      "description": "Minimiere Ladezeiten mit einer speziell entwickelten 512GB NVMe SSD und wechsle mit Quick Resume nahtlos zwischen mehreren Spielen. Xbox Smart Delivery stellt sicher, dass du die beste Version deines Spiels spielst, egal, auf welcher Konsole du spielst Spiele deine Xbox One-Spiele auf deiner Xbox Series S weiter. Deine Fortschritte, Erfolge und Freundesliste werden automatisch auf das neue System übertragen. Erwecke deine Spiele und Filme mit innovativem 3D Raumklang zum Leben",
+      "price": 1540,
+      "reviews": "5.0",
+      "countreviews": 34,
+      "onlineBadge": true,
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/71vPCX0bS-L._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71q7JTbRTpL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71iQ4HGHtsL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61IYrCrBzxL._SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61RnXmpAmIL._SL1500_.jpg"
+      ],
+      "colors": ["black", "white"]
+    },
+    {
+      "id": 5,
+      "name": "iMac 2021",
+      "brand": "Apple",
+      "barcorde": 838380998870,
+      "description": "Great Macs for everyday use!",
+      "price": 3340,
+      "reviews": "3.5",
+      "countreviews": 104,
+      "onlineBadge": true,
+      "images": [
+        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-family-hero?wid=940&amp;hei=1112&amp;fmt=jpeg&amp;qlt=80&amp;.v=1604021663000"
+      ],
+      "colors": ["blue", "black"]
+    },
+    {
+      "id": 6,
+      "name": "AirPods Pro",
+      "brand": "Nike x Stussy",
+      "barcorde": 838382200212,
+      "description": "Great sneakers for everyday use!",
+      "price": 300,
+      "reviews": "3.0",
+      "countreviews": 340,
+      "onlineBadge": false,
+      "images": [
+        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWP22?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1591634795000"
+      ],
+      "colors": ["blue", "black", "red", "white"]
+    },
+    {
+      "id": 7,
+      "name": "AirTag",
+      "brand": "Apple",
+      "barcorde": 838381299908,
+      "description": "AirTag is an easy way to keep track of your stuff. Attach one to your keys, slip another one in your backpack. And just like that, they’re on your radar in the Find My app. AirTag has your back.",
+      "price": 340,
+      "reviews": "3.5",
+      "countreviews": 34,
+      "onlineBadge": true,
+      "images": [
+        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airtag-double-select-202104?wid=445&hei=370&fmt=jpeg&qlt=95&.v=1617761672000"
+      ],
+      "colors": ["blue", "black", "red", "white", "green"]
+    }
+  ]
+}
